@@ -33,7 +33,7 @@ A reproducible pandas pipeline that turns ~5M rows of raw, messy ride records in
 
 ### Find me
 
-- Email: fe-ghali@live.co.uk
+- fe-ghali@live.co.uk
 - [LinkedIn](www.linkedin.com/in/samerelfeghali)
 - [Upwork](https://www.upwork.com/freelancers/~01df1a5b01533bfb17)
 
