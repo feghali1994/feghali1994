@@ -34,7 +34,7 @@ A reproducible pandas pipeline that turns ~5M rows of raw, messy ride records in
 ### Find me
 
 - fe-ghali@live.co.uk
-- [LinkedIn](www.linkedin.com/in/samerelfeghali)
+- [LinkedIn](https://www.linkedin.com/in/samerelfeghali)
 - [Upwork](https://www.upwork.com/freelancers/~01df1a5b01533bfb17)
 
 I'm growing my skills as a data analyst/engineer and welcome any feedback along the way - feel free to open an issue or reach out!
